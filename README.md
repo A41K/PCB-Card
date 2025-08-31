@@ -1,0 +1,1 @@
+A simple repository for grounded from HackClub. This is the PCB card tutorial
