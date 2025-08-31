@@ -7,11 +7,11 @@ Created On: "08/31/2025"
 
 # August 31th: Created the file and now Wiring!
 
-[Placed all the components that the tutorial listed]
+[Placed all the components that the tutorial listed. Looked at the EasyEDA tutorial because I never used it before]
 
 <img width="1023" height="566" alt="zen_8VRhIgIOkA" src="https://github.com/user-attachments/assets/ccdeabf7-373f-41f5-82e5-72e742139363" />
 
-[Started wiring up the components/placing everything where it needs to be
+[Started wiring up the components/placing everything where it needs to be]
 
 <img width="732" height="682" alt="zen_V1yFd1us5I" src="https://github.com/user-attachments/assets/4c4b07a8-6b25-488c-97cd-04297fcb45cb" />
 
