@@ -23,4 +23,11 @@ Created On: "08/31/2025"
 
 [Picture #5]
 
-**Total time spent: 1h 30m**
+
+[Remade the whole project/repositioned some components]
+
+
+
+
+
+**Total time spent: 3h 30m**
